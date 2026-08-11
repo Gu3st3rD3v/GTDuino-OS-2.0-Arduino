@@ -20,4 +20,4 @@ Um Arduino UNO, Tela OLED 0.96 (optimizado apenas para essa tela), Teclado de me
 # Bibliotecas Necessárias:
 Adafruit GFX Library,
 Keypad,
-Adafruit SSD1306,
+Adafruit SSD1306
