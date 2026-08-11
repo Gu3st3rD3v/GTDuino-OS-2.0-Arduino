@@ -18,6 +18,6 @@ Pré-Escrita
 Um Arduino UNO, Tela OLED 0.96 (optimizado apenas para essa tela), Teclado de membrana numérico matriz 4x4 16 teclas, Alto falante ou Buzzer de bip, Bateria 9V (opcional), Arduino IDE.
 
 # Bibliotecas Necessárias:
-Adafruit GFX Library
-Keypad
-Adafruit SSD1306
+Adafruit GFX Library,
+Keypad,
+Adafruit SSD1306,
