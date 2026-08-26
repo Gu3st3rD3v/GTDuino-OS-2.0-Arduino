@@ -2,13 +2,13 @@
 Esse é um sistema operacional simples desenvolvido para o Arduino UNO, esse sistema operacional foi inspirado no sistema operacional Symbian OS da Nokia. 
 
 # Qual o objetivo desse projeto?
-O objetivo do meu projeto é ter um sistema operacional 100% funcional no Arduino, (observação: esse sistema operacional é tão leve que roda em qualquer dispositivo com 2kb de ram). 
-
-# O que é o arduino?
-O Arduino é uma placa de controle/microcomputador desenvolvido por Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino e David Mellis em 2005 na Italia, o Arduino é open-source ou seja, qualquer um pode criar e melhorar o Arduino. Ele é totalmente reprogramável (você consegue editar os códigos dessa placa), o Arduino IDE usa como linguagem principal C e C++. O nome Arduino vem de um bar na comuna italiana de Ivrea, onde alguns dos fundadores do projeto costumavam se reunir. O bar foi nomeado após Arduíno de Ivrea, que foi o marquês de Ivrea e rei da Itália de 1002 à 1014.
+O objetivo do meu projeto é ter um sistema operacional 100% funcional no Arduino, (observação: esse sistema operacional é tão leve que roda em qualquer dispositivo com 2kb de ram). Ele tem funções básicas, não é possível fazer ligações, mandar SMS e não é possível ouvir musicas de um cartão micro sd. Esse projeto não é um projeto finalizado, então poderá conter modificações futuras. O sistema é open-source, qualquer pessoa pode modificar esse sistema e personalizar ele do jeito que ela quiser.
 
 # Inspirações:
 Minha principal inspiração para criar esse projeto foi o Nokia 3310, esse é um dispositivo móvel lançado em nos anos 2000 fabricado pela Nokia, na época ele foi uma febre, (tanto que ele é um dos celulares mais conhecidos da Nokia). Para fazer esse o sistema operacional GTDuino OS eu me inspirei no sistema operacional Symbian OS, mas também me inspirei no Terry A. Davis o desenvolvedores do sistema operacional Temple OS, Davis começou a desenvolver o TempleOS em meados de 2003. Ele inicialmente o batizara "J Operating System", mais tarde mudando o nome para "LoseThos", numa referência a uma cena do filme de 1986 Platoon. Outro nome utilizado por ele foi "SparrowOS" antes de finalmente decidir-se por "TempleOS". 
+
+# O que é o arduino?
+O Arduino é uma placa de controle/microcomputador desenvolvido por Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino e David Mellis em 2005 na Italia, o Arduino é open-source ou seja, qualquer um pode criar e melhorar o Arduino. Ele é totalmente reprogramável (você consegue editar os códigos dessa placa), o Arduino IDE usa como linguagem principal C e C++. O nome Arduino vem de um bar na comuna italiana de Ivrea, onde alguns dos fundadores do projeto costumavam se reunir. O bar foi nomeado após Arduíno de Ivrea, que foi o marquês de Ivrea e rei da Itália de 1002 à 1014.
 
 # Funções:
 Bloco de notas
