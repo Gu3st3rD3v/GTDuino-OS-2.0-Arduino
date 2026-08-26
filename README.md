@@ -20,6 +20,7 @@ VCC: Pino 3.3v
 GND: Pino GND
 SDA: Pino analógico A4
 SCL: Pino analógico A5
+= 
 
 # Teclado Matricial 4x4
 Linha 1 (R1): Pino digital 9
@@ -30,10 +31,12 @@ Coluna 1 (C1): Pino digital 5
 Coluna 2 (C2): Pino digital 4
 Coluna 3 (C3): Pino digital 3
 Coluna 4 (C4): Pino digital 2
+=
 
 # Buzzer
 Pino + (Sinal): Pino digital 10
 Pino - (GND): Pino GND
+=
 
 # Bibliotecas Necessárias:
 Adafruit GFX Library,
