@@ -13,6 +13,8 @@ As funções desse sistema operacional são funções simples, como Bloco de not
 # Recursos Necessários:
 Para você fazer o sistema funcionar você precisa de usar as seguintes peças: Arduino UNO, Tela OLED 0.96 (optimizado apenas para essa tela), Teclado de membrana numérico matriz 4x4 16 teclas, Alto falante ou Buzzer de bip, Bateria 9V (opcional). E o Arduino IDE para enviar o código.
 
+<img width="369" height="477" alt="image" src="https://github.com/user-attachments/assets/f3285ca1-5d0b-439f-b020-95a0a56f2ffc" />
+
 # Display OLED 
 VCC: Pino 3.3v
 GND: Pino GND
@@ -32,9 +34,6 @@ Coluna 4 (C4): Pino digital 2
 # Buzzer
 Pino + (Sinal): Pino digital 10
 Pino - (GND): Pino GND
-
-<img width="369" height="477" alt="image" src="https://github.com/user-attachments/assets/f3285ca1-5d0b-439f-b020-95a0a56f2ffc" />
-
 
 # Bibliotecas Necessárias:
 Adafruit GFX Library,
