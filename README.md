@@ -16,29 +16,17 @@ Para você fazer o sistema funcionar você precisa de usar as seguintes peças: 
 <img width="369" height="477" alt="image" src="https://github.com/user-attachments/assets/f3285ca1-5d0b-439f-b020-95a0a56f2ffc" />
 
 # Display OLED 
-VCC: Pino 3.3v
-GND: Pino GND
-SDA: Pino analógico A4
-SCL: Pino analógico A5
-= 
+VCC: Pino 3.3v, GND: Pino GND, SDA: Pino analógico A4, SCL: Pino analógico A5
+
 
 # Teclado Matricial 4x4
-Linha 1 (R1): Pino digital 9
-Linha 2 (R2): Pino digital 8
-Linha 3 (R3): Pino digital 7
-Linha 4 (R4): Pino digital 6
-Coluna 1 (C1): Pino digital 5
-Coluna 2 (C2): Pino digital 4
-Coluna 3 (C3): Pino digital 3
-Coluna 4 (C4): Pino digital 2
-=
+Linha 1 (R1): Pino digital 9, Linha 2 (R2): Pino digital 8, Linha 3 (R3): Pino digital 7, Linha 4 (R4): Pino digital 6.
+Coluna 1 (C1): Pino digital 5, Coluna 2 (C2): Pino digital 4, Coluna 3 (C3): Pino digital 3, Coluna 4 (C4): Pino digital 2.
+
 
 # Buzzer
-Pino + (Sinal): Pino digital 10
-Pino - (GND): Pino GND
-=
+Pino + (Sinal): Pino digital 10, Pino - (GND): Pino GND
+
 
 # Bibliotecas Necessárias:
-Adafruit GFX Library,
-Keypad,
-Adafruit SSD1306
+Adafruit GFX Library, Keypad, Adafruit SSD1306
