@@ -2,7 +2,7 @@
 Esse é um sistema operacional simples desenvolvido para o Arduino UNO, esse sistema operacional foi inspirado no sistema operacional Symbian OS da Nokia. 
 
 # Qual o objetivo desse projeto?
-
+O objetivo do meu projeto é ter um sistema operacional 100% funcional no Arduino, (observação: esse sistema operacional é tão leve que roda em qualquer dispositivo com 2kb de ram). 
 
 # O que é o arduino?
 O Arduino é uma placa de controle/microcomputador desenvolvido por Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino e David Mellis em 2005 na Italia, o Arduino é open-source ou seja, qualquer um pode criar e melhorar o Arduino. Ele é totalmente reprogramável (você consegue editar os códigos dessa placa), o Arduino IDE usa como linguagem principal C e C++. O nome Arduino vem de um bar na comuna italiana de Ivrea, onde alguns dos fundadores do projeto costumavam se reunir. O bar foi nomeado após Arduíno de Ivrea, que foi o marquês de Ivrea e rei da Itália de 1002 à 1014.
