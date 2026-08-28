@@ -317,7 +317,7 @@ void printAppName(byte idx) {
 
 void printSongName(byte idx) {
   switch(idx) {
-    case 0: display.print(F("DOOM E1M1")); break;
+    case 0: display.print(F("DOOM THEME")); break;
     case 1: display.print(F("In The End")); break;
     case 2: display.print(F("Nyan Cat")); break;
     case 3: display.print(F("Megalovania")); break;
@@ -333,7 +333,7 @@ void runBootAnimation() {
     display.drawRect(0, 0, 128, 64, WHITE); 
     display.setTextSize(1);
     display.setCursor(32, 14); display.print(F("Gtduino OS"));
-    display.setCursor(31, 24); display.print(F("Version 2.0"));
+    display.setCursor(31, 24); display.print(F("Version 2.1"));
     display.setCursor(22, 32); display.print(F("Carregando..."));
     display.drawRect(14, 44, 100, 8, WHITE);
     display.fillRect(16, 46, map(i, 0, 100, 0, 96), 4, WHITE);
