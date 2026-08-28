@@ -35,8 +35,8 @@ const byte totalApps = 11; // Atualizado para 11 aplicativos
 byte brilho = 150;
 
 // --- CONFIGURAÇÃO DE DATA GLOBAL ---
-byte dateDay = 11;
-byte dateMonth = 6;
+byte dateDay = 01;
+byte dateMonth = 1;
 byte dateYear = 26;
 byte dateSel = 0;
 
@@ -67,7 +67,7 @@ struct Crewmate {
 Crewmate auBots[5];
 
 // --- VARIÁVEIS DO TETRIS ---
-byte tetrisGrid[14]; // Matriz de 14 linhas x 8 colunas (cada bit é um bloco)
+byte tetrisGrid[14]; 
 int8_t tetrisX = 3, tetrisY = 0;
 byte tetrisType = 0;
 int8_t tpx[4], tpy[4];
@@ -962,7 +962,7 @@ void runGeometryPocket(char key) {
       case 4: display.print(F("Neste dispositivo foi\nusado: 1x Arduino UNO,\n1x Tela OLED 0.96,\n1x Protoboard para as\nconexoes e 1x Buzzer\nde caixa de som.")); break;
       case 5: display.print(F("A colonização do\nBrasil comecou de\nfato em 1530, com a\nchegada de expedicoes\nportuguesas, 30 anos\napos o descobrimento\nem 1500.")); break;
       case 6: display.print(F("Numeros binarios sao\num sistema de base 2\n(0 ou 1). Eles formam\na linguagem nativa e\nfundamental de todos\nos processadores e\nmaquinas do mundo.")); break;
-      case 7: display.print(F("Nao e impossivel,\nmas exige persistenca.\nComece entendendo a\nlogica de programacao\neifique um pouco\ntodos os dias.")); break;
+      case 7: display.print(F("Nao e dificil,\nmas exige persistenca.\nComece entendendo a\nlogica de programacao\naprimore a sua habilidade\ntodos os dias.")); break;
       case 8: display.print(F("A missao Apollo 11\nfoi responsavel pelo\nprimeiro pouso humano\nna Lua, em 20 de julho\nde 1969, comandada por\nNeil Armstrong.")); break;
       case 9: display.print(F("A ideia principal e\ncriar um ecossistema\nde simulação operacional\nretro embarcado,\nmostrando o poder de\notimizacao do Arduino.")); break;
       case 10: display.print(F("Por fora sim, mas\no gerenciamento de\nmemoria interna e\nestados do software\nenvolve conceitos de\nengenharia complexos.")); break;
